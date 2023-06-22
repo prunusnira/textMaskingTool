@@ -1,3 +1,3 @@
-import useMask from "./useMask";
+import useMask from './useMask'
 
-export {useMask}
+export { useMask }
